@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class Project {
 	
-	//A common method to connect to the DB
+	// A common method to connect to the DB
 	private Connection connect()
 	 {
 	 Connection con = null;
